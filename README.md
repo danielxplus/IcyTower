@@ -16,6 +16,7 @@ This project is an Object-Oriented Programming (OOP) game built using **C++ and 
 ### Known Issues & TODOs
 We've had some minor issues in our project, which we'll work on with time. These issues include
 - [ ] Slow game load-in from the menu
+- [ ] X'ing out mid-game might cause a crash
 - [ ] Introduce enemies which were not pushed to the game yet
 
 ### License
