@@ -1,0 +1,25 @@
+Kirby character for Icy Tower made by Devil Hongo.
+Have fun!
+
+# graphics
+[frames] 		Kirby.bmp
+	
+# sound
+[jumplo] 		jump_lo.wav  
+[jumpmed] 		jump_mid.wav
+[jumphi]	 	jump_hi.wav   
+[pause] 	 	pause.wav
+[death]			KDeath.wav   
+[greeting]		KHello.wav   
+[edge]			edge.wav
+[bgmusic]		KBgm.wav
+
+# info
+For more Icy Tower action, visit http://www.freelunchdesign.com .
+
+
+
+	
+
+
+

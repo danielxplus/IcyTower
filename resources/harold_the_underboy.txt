@@ -1,0 +1,25 @@
+Harold the Underboy character for Icy Tower.
+Have fun!
+
+# graphics
+[frames] 		harold.bmp
+	
+# sound
+[jumplo] 		jump_lo.wav  
+[jumpmed] 		jump_mid.wav
+[jumphi]	 	jump_hi.wav   
+[pause] 	 	pause.wav
+[death]			falling.wav   
+[greeting]		hello.wav   
+[edge]			edge.wav
+[bgmusic]		bg_beat.wav
+
+# info
+Honzík.) http://www.icytower.unas.cz/ 
+
+
+
+	
+
+
+
