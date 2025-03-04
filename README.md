@@ -2,8 +2,7 @@
 
 ## Project Overview
 Icy Tower is a freeware video game by Swedish game developer Free Lunch Design. It is a platform game set in a tower, 
-where the player's goal is to jump from one "floor" to the next and go as high as possible without falling and plunging off the screen. It was developed by Free Lunch Design, 
-and we decided to clone it as part of our OOP course.<br> 
+where the player's goal is to jump from one "floor" to the next and go as high as possible without falling and plunging off the screen.
 This project is an Object-Oriented Programming (OOP) game built using **C++ and SFML**. The game features a dynamic environment, character animations, and an engaging gameplay loop.
 
 ### Our Project Includes
